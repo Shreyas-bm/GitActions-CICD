@@ -20,7 +20,9 @@ def students():
             "Amit",
             "Sneha",
             "Rohit"
-            "Damodar"
+            "Damodar",
+            "Chiranth Gowda",
+            "Shantinath"
         ]
     }
 
